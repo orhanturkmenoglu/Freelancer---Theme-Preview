@@ -1,0 +1,58 @@
+.background-navbar{
+    background-color: #2C3E50;
+    font-size: 15px;
+    font-weight: bold;
+    max-height: 70px;
+}
+
+
+.ayrac{
+    border: none;
+    border-top: 3px solid #f2f2f2;
+    max-width: 250px;
+    margin:25px auto ;
+}
+
+.ibeyaz{
+    color:#f2f2f2;
+    position: relative;
+    top: -60px;
+    font-size: 40px;
+    border: 10px solid #1ABC9C;
+    background-color: #1ABC9C;
+}
+
+.ayracgri{
+    border: none;
+    border-top: 3px solid #000;
+    max-width: 250px;
+    margin:25px auto ;
+}
+
+
+.igri{
+    color:#000;
+    position: relative;
+    top: -60px;
+    font-size: 40px;
+    border: 10px solid #fff;
+    background-color: #fff;
+}
+
+.ekip-card > img:hover{
+
+    opacity: 0.8;
+    
+}
+
+
+.iabout{
+    color:#f2f2f2;
+    position: relative;
+    top: -60px;
+    font-size: 40px;
+    border: 10px solid #1ABC9C;
+    background-color: #1ABC9C;
+    margin-left: 520px;
+}
+
